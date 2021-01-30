@@ -1,0 +1,26 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanLake/weather.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlanLake/weather/issues"
+  },
+  "homepage": "https://github.com/AlanLake/weather#readme",
+  "dependencies": {
+    "city-timezones": "^1.2.0",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.32",
+    "require": "^2.4.20",
+    "uniq": "^1.0.1"
+  }
+}
